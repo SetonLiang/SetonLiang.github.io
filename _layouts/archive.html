@@ -17,12 +17,7 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">
-        {{ page.title }}
-      </h1>
-      <a href="../assets/Zhuowen Liang_CV.pdf" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-        <img src="../images/Pdf.png" alt="Download PDF" style="height: 1em;" />
-      </a>
+      <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
   </div>
