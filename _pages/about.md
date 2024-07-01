@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Zhuowen Liang, a final year undergraduate majoring in Computer Science and Technology at [SCUT](https://www.scut.edu.cn). I am also doing research assistant at the [HKUST-CIVAL group](https://hkust-cival.com/) in HKUST(GZ), supervised by Prof. [Wei Zeng](https://zeng-wei.com/).
+I am Zhuowen Liang, a final year undergraduate majoring in Computer Science and Technology at [SCUT](https://www.scut.edu.cn). I am also doing research assistant in the [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), supervised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
 My current research is on Retrieval Augmented Generation(RAG). I am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks. I am also very interested in research fields inlcuding Data Mining, Database, Machine Learning and Multimodal Deep-Learning.
 Natural Language Processing, trustworthiness & safety of Large Language Models.
