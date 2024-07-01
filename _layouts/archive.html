@@ -19,10 +19,10 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">
         {{ page.title }}
-        <a href="../assets/Zhuowen Liang_CV.pdf" target="_blank">
-          <img src="../images/Pdf.png" alt="Download PDF" style="margin-left: 10px; vertical-align: middle;" />
-        </a>
       </h1>
+      <a href="../assets/Zhuowen Liang_CV.pdf" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+        <img src="../images/Pdf.png" alt="Download PDF" style="height: 1em;" />
+      </a>
     {% endunless %}
     {{ content }}
   </div>
