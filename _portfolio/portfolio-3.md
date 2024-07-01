@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio3.png'>"
+title: "Hospital Database Management System"
+excerpt: "Database Project Design<br/><img src='/images/portfolio3.png'>"
 collection: portfolio
 ---
 
