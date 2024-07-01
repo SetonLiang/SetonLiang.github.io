@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhuowen Liang's Blog"
+title                    : "Zhuowen Liang's Homepage"
 title_separator          : "-"
 name                     : &name "Zhuowen Liang"
 description              : &description "personal description"
@@ -25,10 +25,11 @@ author:
   name             : "Zhuowen Liang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate in South China University of Technology(SCUT), 
-                      Research assistant in The Hongkong University of Science and Technology(GuangZhou) "
+                      Research assistant in The Hongkong University of Science and Technology
+                      (GuangZhou) "
   location         : "GuangZhou, China"
   employer         : "SCUT"
-  uri              : https://www.scut.edu.cn/
+  uri              : #https://www.scut.edu.cn/
   email            : "simonliang484@gmail.com" 
 
   # Academic websites
