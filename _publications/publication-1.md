@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "VisLTR: Visualization-in-the-Loop Table Reasoning"
 collection: publications
 permalink: /publication/publication-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-06-06
 venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
