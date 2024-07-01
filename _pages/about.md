@@ -13,6 +13,12 @@ My current research is on Retrieval Augmented Generation(RAG). I am exploring gr
 You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Liang_CV.pdf).
 
 
-news
+News
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### April 1, 2024
+I submitted the paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) to the *IEEE Visualization Conference(VIS)*.
+### Junary 4, 2024
+I interned as a Research Assistant (RA) at the Information Hub for Data Science and Analytics at HKUST(GZ)
+
+
+
