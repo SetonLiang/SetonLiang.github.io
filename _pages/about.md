@@ -16,9 +16,13 @@ My current research lies on Retrieval Augmented Generation(RAG) and Data-Centric
 You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Liang_CV.pdf).
 
 
-News
-------
-### April 1, 2024
+# News
+- [September. 2024] One paper about GraphRAG for literature analysis is submitted to CHI'25.
+- [April. 2024] One paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) is submitted to the VIS'24.
+- [January. 2024] Interned as a Research Assistant (RA) at the Information Hub for Data Science and Analytics at HKUST(GZ), supervised by Prof. [Wei Zeng](https://zeng-wei.com/).
+
+
+### April 1, 2024 
 I submitted the paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) to the *IEEE Visualization Conference(VIS)*.
 ### Junary 4, 2024
 I interned as a Research Assistant (RA) at the Information Hub for Data Science and Analytics at HKUST(GZ), supervised by Prof. [Wei Zeng](https://zeng-wei.com/).
