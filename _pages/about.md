@@ -31,7 +31,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 # 🔎 Experience
   <p>
-    <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-left: 20px;; width: 60px; height: 80px;">
+    <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-right: 20px;; width: 60px; height: 80px;">
   </p>
 
 - **The Hong Kong University of Science and Technology (Guangzhou)** <br>
@@ -40,7 +40,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
   Advisor: Prof. [Nan Tang](https://nantang.github.io/)
 
   <p>
-    <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-left: 20px;; width: 60px; height: 80px;">
+    <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-right: 20px;; width: 60px; height: 80px;">
   </p>
 - **The Hong Kong University of Science and Technology (Guangzhou)** <br>
   Research Intern @ [HKUST-CIVAL group](https://hkust-cival.com/), 2024.1~2024.9 <br>
@@ -48,7 +48,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
   Advisor: Prof. [Wei Zeng](https://zeng-wei.com/)
 
   <p>
-    <img src="images/SCUT.png" alt="SCUT" style="float: right; margin-left: 10px;; width: 80px; height: 80px;">
+    <img src="images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px;; width: 80px; height: 80px;">
   </p>
 - **South China University of Technology** <br>
   Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4 <br>
