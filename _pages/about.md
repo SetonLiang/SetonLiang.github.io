@@ -51,7 +51,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
     <img src="images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px;; width: 80px; height: 80px;">
   </p>
 - **South China University of Technology** <br>
-  Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4 <br>
+  Project Topic: Resident Useful Life prediction based on CNN & LSTM, 2023.11~2024.4 <br>
   Advisor: Prof. [Fang Li](https://www2.scut.edu.cn/cs/2017/0129/c22285a327635/page.htm)
 
 
