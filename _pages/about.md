@@ -17,23 +17,45 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 
-# 🔥News
+# 🔥 News
 - [September. 2024] One paper about GraphRAG for literature analysis is submitted to **CHI'25**.
 - [April. 2024] One paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) is submitted to the **VIS'24**.
 - [January. 2024] Interned as a Research Assistant (RA) at the Information Hub for Data Science and Analytics at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
 
 
-# 📑Publication
+# 📑 Publication
 - **VisLTR: Visualization-in-the-Loop Table Reasoning**
+  
   Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng
-  arXiv 2024. [Paper](https://arxiv.org/abs/2406.03753)
+  
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
 
-# ⏩Experience
+# 🔎 Experience
+- **The Hong Kong University of Science and Technology (Guangzhou)**
+  Research Intern @ [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/), 2024.10~Present
 
-# 🏆Honors & Awards
+  Research Topic: Structured Reasoning combined with RAG
 
-🎓
+  Advisor: Prof. [Nan Tang](https://nantang.github.io/)
+
+- **The Hong Kong University of Science and Technology (Guangzhou)**
+  Research Intern @ [HKUST-CIVAL group](https://hkust-cival.com/), 2024.1~2024.9
+
+  Research Topic: Multimodal Alignment & GraphRAG
+
+  Advisor: Prof. [Wei Zeng](https://zeng-wei.com/)
+
+- **South China University of Technology**
+  Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4
+  
+  Advisor: Prof. [Fang Li](https://www2.scut.edu.cn/cs/2017/0129/c22285a327635/page.htm)
+
+
+
+# 🏆 Honors & Awards
+
+<!-- 🎓 -->
 
 
 
