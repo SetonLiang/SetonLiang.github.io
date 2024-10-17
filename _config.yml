@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhuowen Liang's Homepage"
+title                    : "Zhuowen Liang"
 title_separator          : "-"
 name                     : &name "Zhuowen Liang"
 description              : &description "personal description"
