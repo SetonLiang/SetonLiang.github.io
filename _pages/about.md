@@ -43,14 +43,14 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
   Research Topic: Multimodal Alignment & GraphRAG <br>
   Advisor: Prof. [Wei Zeng](https://zeng-wei.com/)
   <div style="float: right; margin-left: 15px;">
-    <img src="E:\个人信息\SetonLiang.github.io\images\HKUST.png" alt="Your Image" width="150"/>
+    <img src="images/HKUST.png" alt="Your Image" width="150"/>
   </div>
 
 - **South China University of Technology** <br>
   Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4 <br>
   Advisor: Prof. [Fang Li](https://www2.scut.edu.cn/cs/2017/0129/c22285a327635/page.htm)
   <div style="float: right; margin-left: 15px;">
-    <img src="SCUT.png" alt="Your Image" width="150"/>
+    <img src="images/SCUT.png" alt="Your Image" width="150"/>
   </div>
 
 
