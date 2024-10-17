@@ -18,9 +18,10 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 # 🔥 News
-- [September. 2024] One paper about GraphRAG for literature analysis is submitted to **CHI'25**.
-- [April. 2024] One paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) is submitted to the **VIS'24**.
-- [January. 2024] Interned as a Research Assistant (RA) at the Information Hub for Data Science and Analytics at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
+- [September. 2024] One paper is submitted to **PacificVis'25 (Journal Track)**
+- [September. 2024] One paper about GraphRAG for literature analysis is submitted to **CHI'25**
+- [April. 2024] One paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) is submitted to the **VIS'24**
+- [January. 2024] Interned as a Research Assistant (RA) at the Information Hub for Data Science and Analytics at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/)
 
 
 
