@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Zhuowen Liang, a final year undergraduate majoring in Computer Science and Technology at South China University of Technology[(SCUT)](https://www.scut.edu.cn). I am also doing research assistant in the [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), supervised by Prof. [Wei Zeng](https://zeng-wei.com/).
+I am Zhuowen Liang, a final year undergraduate majoring in Computer Science and Technology at South China University of Technology[(SCUT)](https://www.scut.edu.cn). Now I am a research assistant in Data Intelligence and Analytics Lab at HKUST(GZ), supervised by Prof. [Nan Tang](https://nantang.github.io/). Previously, I joined [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), supervised by Prof. [Wei Zeng](https://zeng-wei.com/).
+
 
 My current research is on Retrieval Augmented Generation(RAG). I am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks. I am also very interested in research fields including Data Mining, Database, Machine Learning and Multimodal Deep-Learning.
 
