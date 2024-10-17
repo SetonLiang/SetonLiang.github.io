@@ -27,34 +27,39 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 # 📑 Publication
 - **VisLTR: Visualization-in-the-Loop Table Reasoning**
   
-  Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng
-  
+  Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
 
 # 🔎 Experience
 - **The Hong Kong University of Science and Technology (Guangzhou)**
-  Research Intern @ [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/), 2024.10~Present
-
-  Research Topic: Structured Reasoning combined with RAG
-
+  
+  Research Intern @ [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/), 2024.10~Present <br>
+  Research Topic: Structured Reasoning combined with RAG <br>
   Advisor: Prof. [Nan Tang](https://nantang.github.io/)
 
 - **The Hong Kong University of Science and Technology (Guangzhou)**
-  Research Intern @ [HKUST-CIVAL group](https://hkust-cival.com/), 2024.1~2024.9
-
-  Research Topic: Multimodal Alignment & GraphRAG
-
+  
+  Research Intern @ [HKUST-CIVAL group](https://hkust-cival.com/), 2024.1~2024.9 <br>
+  Research Topic: Multimodal Alignment & GraphRAG <br>
   Advisor: Prof. [Wei Zeng](https://zeng-wei.com/)
 
 - **South China University of Technology**
-  Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4
   
+  Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4 <br>
   Advisor: Prof. [Fang Li](https://www2.scut.edu.cn/cs/2017/0129/c22285a327635/page.htm)
 
 
 
 # 🏆 Honors & Awards
-
+Tencent Enterprise First Price Scholarship, 2023 (5kRMB, Top 2% at SCUT)
+The First Price Scholarship, 2023
+The Second Price Scholarship, 2022
+The Third Price Scholarship, 2024
+Merit Student, 2022 & 2023 (two times)
+Excellent League Member, 2022 & 2023 & 2024 (three times)
+Chinese Mathematics Competitions(Guangdong): First Prize, 2022
+Asia and Pacific Mathematical Contest in Modeling(APMCM): Third Prize, 2023
+MathorCup College Mathematical Modeling Challenge: Third Prize, 2023
 <!-- 🎓 -->
 
 

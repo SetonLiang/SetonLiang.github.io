@@ -27,7 +27,7 @@ author:
   bio              : "Undergraduate in SCUT, 
                       Research assistant in HKUST(GZ) "
   location         : "GuangZhou, China"
-  employer         : "SCUT"
+  # employer         : "SCUT"
   uri              : #https://www.scut.edu.cn/
   email            : "simonliang484@gmail.com" 
 
