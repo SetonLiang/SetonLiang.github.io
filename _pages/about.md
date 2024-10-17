@@ -30,28 +30,30 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
 
 # 🔎 Experience
+  <p>
+    <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-left: 20px;; width: 60px; height: 80px;">
+  </p>
+
 - **The Hong Kong University of Science and Technology (Guangzhou)** <br>
   Research Intern @ [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/), 2024.10~Present <br>
   Research Topic: Structured Reasoning combined with RAG <br>
   Advisor: Prof. [Nan Tang](https://nantang.github.io/)
-  <div style="float: right; margin-left: 15px;">
-    <img src="images/HKUST.png" alt="Your Image" width="50"/>
-  </div>
 
+  <p>
+    <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-left: 20px;; width: 60px; height: 80px;">
+  </p>
 - **The Hong Kong University of Science and Technology (Guangzhou)** <br>
   Research Intern @ [HKUST-CIVAL group](https://hkust-cival.com/), 2024.1~2024.9 <br>
   Research Topic: Multimodal Alignment & GraphRAG <br>
   Advisor: Prof. [Wei Zeng](https://zeng-wei.com/)
-  <div style="float: right; margin-left: 15px;">
-    <img src="images/HKUST.png" alt="Your Image" width="50"/>
-  </div>
 
+  <p>
+    <img src="images/SCUT.png" alt="SCUT" style="float: right; margin-left: 10px;; width: 80px; height: 80px;">
+  </p>
 - **South China University of Technology** <br>
   Project Topic: Resident Useful Life prediction based on CNN&LSTM, 2023.11~2024.4 <br>
   Advisor: Prof. [Fang Li](https://www2.scut.edu.cn/cs/2017/0129/c22285a327635/page.htm)
-  <div style="float: right; margin-left: 15px;">
-    <img src="images/SCUT.png" alt="Your Image" width="50"/>
-  </div>
+
 
 
 
