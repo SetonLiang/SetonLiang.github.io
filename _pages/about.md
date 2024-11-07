@@ -61,8 +61,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 # 🏆 Honors & Awards
 - Tencent Enterprise First Price Scholarship, 2023 (5k RMB, Top 2% at SCUT)
 - The First Price Scholarship, 2023
-- The Second Price Scholarship, 2022
-- The Third Price Scholarship, 2024
+- The Second Price Scholarship, 2022 & 2024 (two times)
 - Merit Student, 2022 & 2023 (two times)
 - Excellent League Member, 2022 & 2023 & 2024 (three times)
 - Chinese Mathematics Competitions(Guangdong): First Prize, 2022
