@@ -67,6 +67,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 - Chinese Mathematics Competitions(Guangdong): First Prize, 2022
 - Asia and Pacific Mathematical Contest in Modeling(APMCM): Third Prize, 2023
 - MathorCup College Mathematical Modeling Challenge: Third Prize, 2023
+- ChinaUndergraduate Mathematical Contest in Modelling（Guangdong）: Third Prize, 2022
 <!-- 🎓 -->
 
 
