@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!👋 My name is Zhuowen Liang (梁卓文), I will join the [DSA](https://dsa.hkust-gz.edu.cn/), [Information Hub](https://infh.hkust-gz.edu.cn/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/) in September, 2025 as a PhD student.
+Hi!👋 My name is Zhuowen Liang (梁卓文), I will join the [DSA](https://dsa.hkust-gz.edu.cn/), [Information Hub](https://infh.hkust-gz.edu.cn/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/) in September 2025 as a PhD student.
 Now I am currently a final year undergraduate majoring in Computer Science and Technology at South China University of Technology[(SCUT)](https://www.scut.edu.cn). 
 I am also a research assistant in [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Nan Tang](https://nantang.github.io/). 
 Previously, I joined [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
