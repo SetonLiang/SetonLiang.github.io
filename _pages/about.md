@@ -21,9 +21,9 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 # 🔥 News
+- [January. 2025] One paper about GraphRAG for literature analysis is submitted to **TKDE**
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
-- [September. 2024] One paper about GraphRAG for literature analysis is submitted to **CHI'25**
-- [April. 2024] One paper titled [VisLTR: Visualization-in-the-Loop Table Reasoning](https://arxiv.org/abs/2406.03753) is submitted to the **VIS'24**
+- [December. 2024] One paper about VLLM for table reasoning is submitted to **TVCG**
 
 
 
