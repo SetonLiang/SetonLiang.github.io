@@ -21,14 +21,16 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 # 🔥 News
-- [January. 2025] One paper about GraphRAG for literature analysis is submitted to **TKDE**.
+- [April. 2025] Focus on the work **DataMosaic**[[Paper](https://arxiv.org/abs/2504.10036)]
+- [April. 2025] One paper about Cybersickness Prediction is submitted to **MM**.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
-- [December. 2024] One paper about VLLM for table reasoning is submitted to **TVCG**.
-
 
 
 
 # 📑 Publication
+- **DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify** <br>
+  Zhengxuan Zhang, **Zhuowen Liang**, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang
+  arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
 - **VisLTR: Visualization-in-the-Loop Table Reasoning** <br>
   Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
