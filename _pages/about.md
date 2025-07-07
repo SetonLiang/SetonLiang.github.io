@@ -12,7 +12,7 @@ I am also a research assistant in [Data Intelligence and Analytics Lab](https://
 Previously, I joined [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
 
-My current research lies on Retrieval Augmented Generation(RAG) and Data-Centric AI. I used to leverage knowledge graph to enhance RA-LLMs for multifaceted literature analysis and currently explore the Structured Reasoning combined with RAG. I am also very interested in research fields including Data Mining, LLM-Based Agent, Reinforce Learning.
+My current research lies on Retrieval Augmented Generation(RAG) and Data-Centric AI. I used to leverage knowledge graph to enhance RA-LLMs for multifaceted literature analysis and currently explore the Structured Reasoning combined with RAG. I am also very interested in research fields including Data Mining, LLM-Based Agent, and Reinforce Learning.
 
 <!-- am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks.  -->
 
