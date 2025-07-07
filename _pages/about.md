@@ -21,8 +21,8 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 # 🔥 News
+- [July. 2025] One paper about Cybersickness Prediction is accepted to **MM 2025**.
 - [April. 2025] Focus on the work [**DataMosaic**](https://arxiv.org/abs/2504.10036)
-- [April. 2025] One paper about Cybersickness Prediction is submitted to **MM 2025**.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
 
 
