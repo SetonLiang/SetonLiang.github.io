@@ -12,7 +12,7 @@ I am also a research assistant in [Data Intelligence and Analytics Lab](https://
 Previously, I joined [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
 
-My current research lies on Retrieval Augmented Generation(RAG) and Data-Centric AI. I used to leverage knowledge graph to enhance RA-LLMs for multifaceted literature analysis and currently explore the Structured Reasoning combined with RAG. I am also very interested in research fields including Data Mining, Database, Machine Learning and Multimodal Alignment.
+My current research lies on Retrieval Augmented Generation(RAG) and Data-Centric AI. I used to leverage knowledge graph to enhance RA-LLMs for multifaceted literature analysis and currently explore the Structured Reasoning combined with RAG. I am also very interested in research fields including Data Mining, LLM-Based Agent, Reinforce Learning and Multimodal Alignment.
 
 <!-- am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks.  -->
 
@@ -21,8 +21,8 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 # 🔥 News
-- [July. 2025] One paper about Cybersickness Prediction is accepted to **MM 2025**.
-- [April. 2025] Focus on the work [**DataMosaic**](https://arxiv.org/abs/2504.10036)
+- [July. 2025] One paper about Cybersickness Prediction was accepted to **MM 2025**!
+- [April. 2025] We proposed [**DataMosaic**](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
 
 
