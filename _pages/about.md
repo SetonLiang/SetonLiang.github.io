@@ -28,21 +28,21 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 # 📑 Publication
 - **DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify** <br>
-  Zhengxuan Zhang, <a href="#" class="black-link"><b>Zhuowen Liang</b></a>, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
+  Zhengxuan Zhang, **Zhuowen Liang**, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
   arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
 - **Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference** <br>
-  Yitong Zhu, <a href="#" class="black-link"><b>Zhuowen Liang</b></a>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
+  Yitong Zhu, **Zhuowen Liang**, Yiming Wu, Tangyao Li, Yuyang Wang <br>
   ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
 - **VisLTR: Visualization-in-the-Loop Table Reasoning** <br>
-  Jianing Hao, <a href="#" class="black-link"><b>Zhuowen Liang</b></a>, Chunting Li, Yuyu Luo, Wei Zeng <br>
+  Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
 
 
 # 🎓 Education
-- The Hong Kong University of Science and Technology(Guangzhou), Guangzhou, China <br>
+- **The Hong Kong University of Science and Technology(Guangzhou)**, Guangzhou, China <br>
 Ph.D. student in Data Science and Analytics, 2025-Present
 
-- South China University of Technology, Guangzhou, China <br>
+- **South China University of Technology**, Guangzhou, China <br>
 BE in Computer Science & Technology (Elite Class), 2021-2025 <br>
 GPA: 3.93/4.0
 
