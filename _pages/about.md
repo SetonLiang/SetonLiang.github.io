@@ -6,13 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!👋 My name is Zhuowen Liang (梁卓文), I will join the [DSA](https://dsa.hkust-gz.edu.cn/), [Information Hub](https://infh.hkust-gz.edu.cn/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/) in September 2025 as a PhD student.
-Now I am currently a final year undergraduate majoring in Computer Science and Technology at South China University of Technology[(SCUT)](https://www.scut.edu.cn). 
-I am also a research assistant in [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. [Nan Tang](https://nantang.github.io/). 
-Previously, I joined [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
+Hi!👋 My name is Zhuowen Liang (梁卓文), I am a first year Ph.D. student in [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/), [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), [The Hong Kong University of Science and Technology(Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof. [Nan Tang](https://nantang.github.io).
+Prior to that, I obtained my bachelor's degree from School of Computer Science & Engineering, [South China University of Technology](https://www.scut.edu.cn) in 2025. 
+I used to be a research assistant in [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
 
-My current research lies on Retrieval Augmented Generation(RAG) and Data-Centric AI. I used to leverage knowledge graph to enhance RA-LLMs for multifaceted literature analysis and currently explore the Structured Reasoning combined with RAG. I am also very interested in research fields including Data Mining, LLM-Based Agent, and Reinforce Learning.
+My current research lies on **Retrieval Augmented Generation(RAG)**, **Document Intelligence**, and **Information Extraction**, with an emphasis on transforming large collections of unstructured documents into structured and queryable data. I am also very interested in research fields including **Reinforcement Learning**, LLM-Based Agent, and Data mining.
 
 <!-- am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks.  -->
 
@@ -21,7 +20,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Li
 
 
 # 🔥 News
-- [July. 2025] One paper about Cybersickness Prediction was accepted to **MM 2025**!
+- [July. 2025] 🚀🚀 One paper about Cybersickness Prediction was accepted to **MM 2025**!
 - [April. 2025] We proposed [**DataMosaic**](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
 
