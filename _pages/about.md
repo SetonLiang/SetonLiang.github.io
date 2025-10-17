@@ -15,7 +15,7 @@ My current research lies on **Retrieval Augmented Generation(RAG)**, **Document 
 
 <!-- am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks.  -->
 
-You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/梁卓文-英文简历.pdf).
+You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/Zhuowen Liang_CV.pdf).
 
 
 
