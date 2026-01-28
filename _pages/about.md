@@ -20,6 +20,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLia
 
 
 # 🔥 News
+- [January. 2026] 🚀🚀 Our paper LiteCost was accepted to **ICLR 2026**!
 - [July. 2025] 🚀🚀 One paper about Cybersickness Prediction was accepted to **MM 2025**!
 - [April. 2025] We proposed [**DataMosaic**](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
@@ -27,12 +28,15 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLia
 
 
 # 📑 Publication
-- **DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify** <br>
-  Zhengxuan Zhang, **Zhuowen Liang**, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
-  arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
+- **Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs** <br>
+  **Zhuowen Liang**, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
+  ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
 - **Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference** <br>
   Yitong Zhu, **Zhuowen Liang**, Yiming Wu, Tangyao Li, Yuyang Wang <br>
   ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
+- **DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify** <br>
+  Zhengxuan Zhang, **Zhuowen Liang**, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
+  arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
 - **VisLTR: Visualization-in-the-Loop Table Reasoning** <br>
   Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
