@@ -20,6 +20,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLia
 
 
 # 🔥 News
+- [March. 2026] We held the KDD Cup 2026 ([Data Agents for Complex Data Analysis Track](https://dataagent.top)).
 - [January. 2026] 🚀🚀 Our paper LiteCost was accepted to **ICLR 2026**!
 - [July. 2025] 🚀🚀 One paper about Cybersickness Prediction was accepted to **MM 2025**!
 - [April. 2025] We proposed [**DataMosaic**](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
@@ -92,8 +93,8 @@ GPA: 3.93/4.0
 
 
 
-
-
+# 🚶 Services
+- Committee Chair of KDD Cup 2026 (Data Agents for Complex Data Analysis Track)
 
 
 
