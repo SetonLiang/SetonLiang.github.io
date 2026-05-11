@@ -96,6 +96,7 @@ GPA: 3.93/4.0
 
 # 🚶 Services
 - Committee Chair of KDD Cup 2026 (Data Agents for Complex Data Analysis Track)
+- Conference Reviewer: NeurIPS 2026
 
 
 
