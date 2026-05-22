@@ -20,6 +20,7 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLia
 
 
 # 🔥 News
+- [May. 2026] 🚀🚀 One paper was accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
 - [April. 2026] 🚀🚀 Our paper DataMosaic was accepted to **VLDB 2026**!
 - [March. 2026] We held the KDD Cup 2026 ([Data Agents for Complex Data Analysis Track](https://dataagent.top)).
 - [January. 2026] 🚀🚀 Our paper LiteCost was accepted to **ICLR 2026**!
