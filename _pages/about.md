@@ -31,17 +31,17 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLia
 
 
 # 📑 Publication
-- **Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs** <br>
-  **Zhuowen Liang**, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
+- <strong><u>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</u></strong> <br>
+  <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
   ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
-- **Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference** <br>
-  Yitong Zhu, **Zhuowen Liang**, Yiming Wu, Tangyao Li, Yuyang Wang <br>
+- <strong><u>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</u></strong> <br>
+  Yitong Zhu, <strong><u>Zhuowen Liang</u></strong>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
   ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
-- **DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify** <br>
-  Zhengxuan Zhang, **Zhuowen Liang**, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
+- <strong><u>DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify</u></strong> <br>
+  Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
   arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
-- **VisLTR: Visualization-in-the-Loop Table Reasoning** <br>
-  Jianing Hao, **Zhuowen Liang**, Chunting Li, Yuyu Luo, Wei Zeng <br>
+- <strong><u>VisLTR: Visualization-in-the-Loop Table Reasoning</u></strong> <br>
+  Jianing Hao, <strong><u>Zhuowen Liang</u></strong>, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
 
 
