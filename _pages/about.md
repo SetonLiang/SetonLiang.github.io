@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hi!👋 My name is Zhuowen Liang (梁卓文), I am a first-year Ph.D. student in [Data Intelligence and Analytics Lab](https://github.com/HKUSTDial/), [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), [The Hong Kong University of Science and Technology(Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof. [Nan Tang](https://nantang.github.io).
+I am currently interning at [Alibaba Token Foundry](https://tongyi.aliyun.com), working on data agent and skills.
 I received my bachelor degree from School of Computer Science & Engineering, [South China University of Technology](https://www.scut.edu.cn) in 2025. 
 I used to be a research assistant in [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
