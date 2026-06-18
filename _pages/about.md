@@ -57,11 +57,11 @@ GPA: 3.93/4.0
 # 🔎 Experience
 
   <p>
-    <img src="images/tongyi.svg" alt="Alibaba Token Foundry" style="float: right; margin-right: 20px; width: 60px; height: 60px;">
+    <img src="images/tongyi.webp" alt="Alibaba Token Foundry" style="float: right; margin-right: 20px; width: 60px; height: 60px;">
   </p>
 
 - **Alibaba (Hangzhou)** <br>
-  Research Assistant @ [Token Foundry](https://tongyi.aliyun.com)<br>
+  Research Assistant @ [Token Foundry](https://tongyi.aliyun.com), 2026.6~Present<br>
   Research Topic: Data Agent, Agentic Skills <br>
   
   <p>
