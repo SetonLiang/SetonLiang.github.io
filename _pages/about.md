@@ -31,7 +31,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 
 
 # 📑 Publication
-*(* indicates co-first authorship)*
+<em>(* indicates co-first authorship)</em>
 - <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
   ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
@@ -55,6 +55,15 @@ BE in Computer Science & Technology (Elite Class), 2021-2025 <br>
 GPA: 3.93/4.0
 
 # 🔎 Experience
+
+  <p>
+    <img src="images/tongyi.svg" alt="Alibaba Token Foundry" style="float: right; margin-right: 20px; width: 60px; height: 60px;">
+  </p>
+
+- **Alibaba (Hangzhou)** <br>
+  Research Assistant @ [Token Foundry](https://tongyi.aliyun.com)<br>
+  Research Topic: Data Agent, Agentic Skills <br>
+  
   <p>
     <img src="images/HKUST.png" alt="HKUST" style="float: right; margin-right: 20px;; width: 60px; height: 80px;">
   </p>
