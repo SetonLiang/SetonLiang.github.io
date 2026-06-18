@@ -73,10 +73,20 @@
   }
 
   a {
+    color: $link-color;
+    font-weight: normal;
     text-decoration: underline;
+    text-underline-offset: 0.12em;
+    text-decoration-color: mix(#fff, $link-color, 35%);
 
-    &:hover {
-      text-decoration: underline;
+    &:visited {
+      color: $link-color-visited;
+    }
+
+    &:hover,
+    &:focus {
+      color: $link-color-hover;
+      text-decoration-color: $link-color-hover;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

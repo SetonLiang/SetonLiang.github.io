@@ -68,6 +68,16 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
+  font-weight: normal;
+
+  &:visited {
+    color: $link-color-visited;
+  }
+
+  &:hover,
+  &:focus {
+    color: $link-color-hover;
+  }
 }
 
 /* Apply focus state */

@@ -15,7 +15,7 @@ My current research lies on **Retrieval Augmented Generation(RAG)**, **Document 
 
 <!-- am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks.  -->
 
-You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLiang_CV.pdf).
+You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLiang_CV.pdf).
 
 
 
@@ -31,16 +31,17 @@ You can find my CV here: [Zhuowen Liang's Curriculum Vitae](../assets/ZhuowenLia
 
 
 # 📑 Publication
-- <strong><u>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</u></strong> <br>
+*(* indicates co-first authorship)*
+- <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
   ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
-- <strong><u>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</u></strong> <br>
+- <strong>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</strong> <br>
   Yitong Zhu, <strong><u>Zhuowen Liang</u></strong>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
   ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
-- <strong><u>DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify</u></strong> <br>
+- <strong>DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify</strong> <br>
   Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
   arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
-- <strong><u>VisLTR: Visualization-in-the-Loop Table Reasoning</u></strong> <br>
+- <strong>VisLTR: Visualization-in-the-Loop Table Reasoning</strong> <br>
   Jianing Hao, <strong><u>Zhuowen Liang</u></strong>, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
 
