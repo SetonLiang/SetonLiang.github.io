@@ -21,11 +21,12 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 
 
 # 🔥 News
-- [May. 2026] 🚀🚀 One paper was accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
-- [April. 2026] 🚀🚀 Our paper DataMosaic was accepted to **VLDB 2026**!
+- [July. 2026] We launched the [DataSpace Leaderboard](https://dataspace-bench.github.io). Welcome to try it!
+- [May. 2026] 🚀 One paper was accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
+- [April. 2026] 🚀 Our paper DataMosaic was accepted to **VLDB 2026**!
 - [March. 2026] We held the KDD Cup 2026 ([Data Agents for Complex Data Analysis Track](https://dataagent.top)).
-- [January. 2026] 🚀🚀 Our paper LiteCost was accepted to **ICLR 2026**!
-- [July. 2025] 🚀🚀 One paper about Cybersickness Prediction was accepted to **MM 2025**!
+- [January. 2026] 🚀 Our paper LiteCost was accepted to **ICLR 2026**!
+- [July. 2025] 🚀 One paper about Cybersickness Prediction was accepted to **MM 2025**!
 - [April. 2025] We proposed [DataMosaic](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
 
@@ -36,15 +37,18 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 - <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
   ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
+- <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
+  Boyan Li<sup>*</sup>, <strong><u>Zhuowen Liang<sup>*</sup></u></strong>, Yupeng Xie<sup>*</sup>, Xiaotian Lin,...,Nan Tang, Guoliang Li, Yuyu Luo
+  arXiv 2026. [[Paper](https://arxiv.org/abs/2608.03451)]  
 - <strong>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</strong> <br>
   Yitong Zhu, <strong><u>Zhuowen Liang</u></strong>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
   ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
 - <strong>DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify</strong> <br>
   Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
   arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
-- <strong>VisLTR: Visualization-in-the-Loop Table Reasoning</strong> <br>
+<!-- - <strong>VisLTR: Visualization-in-the-Loop Table Reasoning</strong> <br>
   Jianing Hao, <strong><u>Zhuowen Liang</u></strong>, Chunting Li, Yuyu Luo, Wei Zeng <br>
-  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)]
+  arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)] -->
 
 
 # 🎓 Education
