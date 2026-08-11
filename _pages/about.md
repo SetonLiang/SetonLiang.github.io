@@ -37,7 +37,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 - <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
   ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
-- <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
+- <strong>Beyond Tables: Doc2DB-Bench for Relationally Faithful Document-to-Database Construction</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Zhengxuan Zhang, Jiayang Wang, Jiazhuo Chen, Nan Tang <br>
   arXiv 2026. [[Paper](https://arxiv.org/abs/2608.08459v1)]  
 - <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
