@@ -43,12 +43,12 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 - <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
   Boyan Li<sup>*</sup>, <strong><u>Zhuowen Liang<sup>*</sup></u></strong>, Yupeng Xie<sup>*</sup>, Xiaotian Lin,...,Nan Tang, Guoliang Li, Yuyu Luo
   arXiv 2026. [[Paper](https://arxiv.org/abs/2608.03451)]  
+- <strong>Document-to-Database: Extraction Meets Relational Semantics</strong> <br>
+  Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Jiazhuo Chen, Haixun Wang, Nan Tang <br>
+  VLDB 2026. [[Paper](https://www.vldb.org/pvldb/vol19/p2522-tang.pdf)]
 - <strong>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</strong> <br>
   Yitong Zhu, <strong><u>Zhuowen Liang</u></strong>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
   ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
-- <strong>DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify</strong> <br>
-  Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Yin Wu, Teng Lin, Yuyu Luo, Nan Tang <br>
-  arXiv 2025. [[Paper](https://arxiv.org/abs/2504.10036)]
 <!-- - <strong>VisLTR: Visualization-in-the-Loop Table Reasoning</strong> <br>
   Jianing Hao, <strong><u>Zhuowen Liang</u></strong>, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)] -->
