@@ -29,7 +29,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 - [Jan. 2026] 🎉 Our paper LiteCost was accepted to **ICLR 2026**!
 - [Jul. 2025] 🎉 One paper about Cybersickness Prediction was accepted to **MM 2025**!
 - [Apr. 2025] We proposed [DataMosaic](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
-- [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+- [Dec. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
 
 
 
