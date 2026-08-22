@@ -21,18 +21,19 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 
 
 # 🔥 News
-- [July. 2026] We launched the [DataSpace Leaderboard](https://dataspace-bench.github.io). Welcome to try it!
-- [May. 2026] 🚀 One paper was accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
-- [April. 2026] 🚀 Our paper DataMosaic was accepted to **VLDB 2026**!
-- [March. 2026] We held the KDD Cup 2026 ([Data Agents for Complex Data Analysis Track](https://dataagent.top)).
-- [January. 2026] 🚀 Our paper LiteCost was accepted to **ICLR 2026**!
-- [July. 2025] 🚀 One paper about Cybersickness Prediction was accepted to **MM 2025**!
-- [April. 2025] We proposed [DataMosaic](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
+- [Aug. 2026] 🎉 One paper was accepted to **EMNLP 2026**!
+- [Jul. 2026] We launched the [DataSpace Leaderboard](https://dataspace-bench.github.io). Welcome to try it!
+- [May. 2026] 🎉 One paper was accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
+- [Apr. 2026] 🎉 Our paper DataMosaic was accepted to **VLDB 2026**!
+- [Mar. 2026] We held the KDD Cup 2026 ([Data Agents for Complex Data Analysis Track](https://dataagent.top)).
+- [Jan. 2026] 🎉 Our paper LiteCost was accepted to **ICLR 2026**!
+- [Jul. 2025] 🎉 One paper about Cybersickness Prediction was accepted to **MM 2025**!
+- [Apr. 2025] We proposed [DataMosaic](https://arxiv.org/abs/2504.10036), a grounded, explainable, and verifiable framework for multi-modal data analytics with LLMs.
 - [December. 2024] Received a PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
 
 
 
-# 📑 Publication
+# 📑 Selected Publications
 <em>(* indicates co-first authorship)</em>
 - <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
@@ -41,7 +42,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
   <strong><u>Zhuowen Liang</u></strong>, Zhengxuan Zhang, Jiayang Wang, Jiazhuo Chen, Nan Tang <br>
   arXiv 2026. [[Paper](https://arxiv.org/abs/2608.08459v1)]  
 - <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
-  Boyan Li<sup>*</sup>, <strong><u>Zhuowen Liang<sup>*</sup></u></strong>, Yupeng Xie<sup>*</sup>, Xiaotian Lin,...,Nan Tang, Guoliang Li, Yuyu Luo
+  Boyan Li<sup>*</sup>, <strong><u>Zhuowen Liang<sup>*</sup></u></strong>, Yupeng Xie<sup>*</sup>, Xiaotian Lin,...,Nan Tang, Guoliang Li, Yuyu Luo <br>
   arXiv 2026. [[Paper](https://arxiv.org/abs/2608.03451)]  
 - <strong>Document-to-Database: Extraction Meets Relational Semantics</strong> <br>
   Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Jiazhuo Chen, Haixun Wang, Nan Tang <br>
