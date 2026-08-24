@@ -37,19 +37,39 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 <em>(* indicates co-first authorship)</em>
 - <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
-  ICLR 2026. [[Paper](https://openreview.net/pdf?id=faECRsdRav)]
+  ICLR 2026.
+  <span class="pub-links">
+    <a class="pub-link" href="https://openreview.net/pdf?id=faECRsdRav"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    <a class="pub-link" href="https://github.com/HKUSTDial/LiteCoST"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+  </span>
 - <strong>Beyond Tables: Doc2DB-Bench for Relationally Faithful Document-to-Database Construction</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Zhengxuan Zhang, Jiayang Wang, Jiazhuo Chen, Nan Tang <br>
-  arXiv 2026. [[Paper](https://arxiv.org/abs/2608.08459v1)]  
+  arXiv 2026.
+  <span class="pub-links">
+    <a class="pub-link" href="https://arxiv.org/abs/2608.08459v1"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    <a class="pub-link" href="https://github.com/SetonLiang/Doc2DB-Bench"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+  </span>
 - <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
   Boyan Li<sup>*</sup>, <strong><u>Zhuowen Liang<sup>*</sup></u></strong>, Yupeng Xie<sup>*</sup>, Xiaotian Lin,...,Nan Tang, Guoliang Li, Yuyu Luo <br>
-  arXiv 2026. [[Paper](https://arxiv.org/abs/2608.03451)]  
+  arXiv 2026.
+  <span class="pub-links">
+    <a class="pub-link" href="https://arxiv.org/abs/2608.03451"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    <a class="pub-link" href="https://github.com/HKUSTDial/DataSpace"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+    <a class="pub-link" href="https://dataspace-bench.github.io"><i class="fas fa-trophy" aria-hidden="true"></i> Leaderboard</a>
+  </span>
 - <strong>Document-to-Database: Extraction Meets Relational Semantics</strong> <br>
   Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Jiazhuo Chen, Haixun Wang, Nan Tang <br>
-  VLDB 2026. [[Paper](https://www.vldb.org/pvldb/vol19/p2522-tang.pdf)]
+  VLDB 2026.
+  <span class="pub-links">
+    <a class="pub-link" href="https://www.vldb.org/pvldb/vol19/p2522-tang.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    <a class="pub-link" href="https://github.com/HKUSTDial/DataMosaic"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+  </span>
 - <strong>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</strong> <br>
   Yitong Zhu, <strong><u>Zhuowen Liang</u></strong>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
-  ACM MM 2025. [[Paper](https://arxiv.org/abs/2501.01212)]
+  ACM MM 2025.
+  <span class="pub-links">
+    <a class="pub-link" href="https://arxiv.org/abs/2501.01212"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+  </span>
 <!-- - <strong>VisLTR: Visualization-in-the-Loop Table Reasoning</strong> <br>
   Jianing Hao, <strong><u>Zhuowen Liang</u></strong>, Chunting Li, Yuyu Luo, Wei Zeng <br>
   arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03753)] -->

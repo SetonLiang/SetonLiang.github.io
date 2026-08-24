@@ -92,6 +92,42 @@
     }
   }
 
+  .pub-links {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.35em;
+    margin-left: 0.4em;
+    vertical-align: middle;
+  }
+
+  a.pub-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    padding: 0.05em 0.55em;
+    border: 1px solid $link-color;
+    border-radius: 999px;
+    color: $link-color !important;
+    font-size: 0.78em;
+    line-height: 1.55;
+    white-space: nowrap;
+
+    i {
+      font-size: 0.9em;
+    }
+
+    &:visited {
+      color: $link-color !important;
+    }
+
+    &:hover,
+    &:focus {
+      background-color: $link-color;
+      color: #fff !important;
+    }
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
