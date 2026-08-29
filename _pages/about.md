@@ -130,7 +130,7 @@ GPA: 3.93/4.0
 - Chinese Mathematics Competitions(Guangdong): First Prize, 2022
 - Asia and Pacific Mathematical Contest in Modeling(APMCM): Third Prize, 2023
 - MathorCup College Mathematical Modeling Challenge: Third Prize, 2023
-- ChinaUndergraduate Mathematical Contest in Modelling(Guangdong): Third Prize, 2022
+- China Undergraduate Mathematical Contest in Modelling(Guangdong): Third Prize, 2022
 <!-- 🎓 -->
 
 
