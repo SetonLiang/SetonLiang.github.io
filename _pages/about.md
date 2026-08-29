@@ -121,6 +121,7 @@ GPA: 3.93/4.0
 
 
 # 🏆 Honors & Awards
+- Chair of the first DSA Table Talks (ICLR 2026 topic), 2026
 - Tencent Enterprise First Price Scholarship, 2023 (5k RMB, Top 2% at SCUT)
 - The First Price Scholarship, 2023
 - The Second Price Scholarship, 2022 & 2024 (two times)
@@ -136,7 +137,7 @@ GPA: 3.93/4.0
 
 # 🚶 Services
 - Committee Chair of KDD Cup 2026 (Data Agents for Complex Data Analysis Track)
-- Conference Reviewer: NeurIPS 2026
+- Conference Reviewer: NeurIPS 2026, ICLR 2027
 
 
 
