@@ -21,9 +21,10 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 
 
 # 🔥 News
+- [Sep. 2026] 🎉 One paper was accepted to **VLDB 2027**!
 - [Aug. 2026] 🎉 One paper was accepted to **EMNLP 2026**!
 - [Jul. 2026] We launched the [DataSpace Leaderboard](https://dataspace-bench.github.io). Welcome to try it!
-- [May. 2026] 🎉 One paper was accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
+- [May. 2026] 🎉 Two papers were accepted to **Transactions on Visualization and Computer Graphics (TVCG)**!
 - [Apr. 2026] 🎉 Our paper DataMosaic was accepted to **VLDB 2026**!
 - [Mar. 2026] We held the KDD Cup 2026 ([Data Agents for Complex Data Analysis Track](https://dataagent.top)).
 - [Jan. 2026] 🎉 Our paper LiteCost was accepted to **ICLR 2026**!
