@@ -43,6 +43,13 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <a class="pub-link" href="https://openreview.net/pdf?id=faECRsdRav"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
     <a class="pub-link" href="https://github.com/HKUSTDial/LiteCoST"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </span>
+- <strong>DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding</strong> <br>
+  <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Yuyu Luo, Haixun Wang, Nan Tang <br>
+  arXiv 2026.
+  <span class="pub-links">
+    <a class="pub-link" href="https://arxiv.org/abs/2610.21327"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    <a class="pub-link" href="https://github.com/HKUSTDial/DocPilot"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+  </span>
 - <strong>Beyond Tables: Doc2DB-Bench for Relationally Faithful Document-to-Database Construction</strong> <br>
   <strong><u>Zhuowen Liang</u></strong>, Zhengxuan Zhang, Jiayang Wang, Jiazhuo Chen, Nan Tang <br>
   arXiv 2026.
