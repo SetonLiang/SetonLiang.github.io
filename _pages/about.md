@@ -12,7 +12,7 @@ I received my bachelor degree from School of Computer Science & Engineering, [So
 I used to be a research assistant in [HKUST-CIVAL group](https://hkust-cival.com/) at HKUST(GZ), advised by Prof. [Wei Zeng](https://zeng-wei.com/).
 
 
-My current research lies on **Retrieval Augmented Generation(RAG)**, **Document Intelligence**, and **Information Extraction**, with an emphasis on transforming large collections of unstructured documents into structured and queryable data. I am also very interested in research fields including **Reinforcement Learning**, LLM-Based Agent, and Data mining.
+My current research lies on **Document Intelligence**, **Information Extraction**, and **Data Agent**, with an emphasis on enabling AI systems to understand and reason over complex, multimodal documents. I am also very interested in research fields including **Reinforcement Learning**, Retrieval Augmented Generation (RAG), and Data mining.
 
 <!-- am exploring graph based RAG assisted with Large Language Models to support scientific literature QA tasks.  -->
 
