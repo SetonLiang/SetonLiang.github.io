@@ -128,7 +128,11 @@
     list-style: none;
 
     > li > div > strong:first-child {
-      color: #746681;
+      font-weight: normal;
+    }
+
+    .pub-authors {
+      font-size: 0.85em;
     }
 
     > li {
@@ -180,8 +184,8 @@
     vertical-align: middle;
 
     &--preprint {
-      background: #f1f3f4;
-      color: #5f6368;
+      background: #f3efff;
+      color: #6941a5;
     }
   }
 
