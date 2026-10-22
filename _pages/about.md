@@ -21,7 +21,8 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
 
 
 # 🔥 News
-<div markdown="1" style="max-height: 300px; overflow-y: auto;" tabindex="0" role="region" aria-label="News">
+{: .news-title }
+<div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="News">
 
 - [Sep. 2026] 🎉 One paper was accepted to **VLDB 2027**!
 - [Aug. 2026] 🎉 One paper was accepted to **EMNLP 2026**!
