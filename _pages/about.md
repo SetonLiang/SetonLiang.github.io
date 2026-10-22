@@ -49,7 +49,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <div>
       <strong>Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs</strong> <br>
       <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Zhengxuan Zhang, Yuyu Luo, Haixun Wang, Nan Tang <br>
-      ICLR 2026.
+      <span class="pub-venue">ICLR 2026 (CCF-A)</span>
       <span class="pub-links">
         <a class="pub-link" href="https://openreview.net/pdf?id=faECRsdRav"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
         <a class="pub-link" href="https://github.com/HKUSTDial/LiteCoST"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
@@ -63,7 +63,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <div>
       <strong>DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding</strong> <br>
       <strong><u>Zhuowen Liang</u></strong>, Xiaotian Lin, Yuyu Luo, Haixun Wang, Nan Tang <br>
-      arXiv 2026.
+      <span class="pub-venue pub-venue--preprint">arXiv 2026</span>
       <span class="pub-links">
         <a class="pub-link" href="https://arxiv.org/abs/2610.21327"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
         <a class="pub-link" href="https://github.com/HKUSTDial/DocPilot"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
@@ -77,7 +77,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <div>
       <strong>Beyond Tables: Doc2DB-Bench for Relationally Faithful Document-to-Database Construction</strong> <br>
       <strong><u>Zhuowen Liang</u></strong>, Zhengxuan Zhang, Jiayang Wang, Jiazhuo Chen, Nan Tang <br>
-      arXiv 2026.
+      <span class="pub-venue pub-venue--preprint">arXiv 2026</span>
       <span class="pub-links">
         <a class="pub-link" href="https://arxiv.org/abs/2608.08459v1"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
         <a class="pub-link" href="https://github.com/SetonLiang/Doc2DB-Bench"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
@@ -91,7 +91,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <div>
       <strong>DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces</strong> <br>
       Boyan Li<sup>*</sup>, <strong><u>Zhuowen Liang<sup>*</sup></u></strong>, Yupeng Xie<sup>*</sup>, Xiaotian Lin,...,Nan Tang, Guoliang Li, Yuyu Luo <br>
-      arXiv 2026.
+      <span class="pub-venue pub-venue--preprint">arXiv 2026</span>
       <span class="pub-links">
         <a class="pub-link" href="https://arxiv.org/abs/2608.03451"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
         <a class="pub-link" href="https://github.com/HKUSTDial/DataSpace"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
@@ -106,7 +106,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <div>
       <strong>Document-to-Database: Extraction Meets Relational Semantics</strong> <br>
       Zhengxuan Zhang, <strong><u>Zhuowen Liang</u></strong>, Jiazhuo Chen, Haixun Wang, Nan Tang <br>
-      VLDB 2026.
+      <span class="pub-venue">VLDB 2026 (CCF-A)</span>
       <span class="pub-links">
         <a class="pub-link" href="https://www.vldb.org/pvldb/vol19/p2522-tang.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
         <a class="pub-link" href="https://github.com/HKUSTDial/DataMosaic"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
@@ -120,7 +120,7 @@ You can find my application CV here: [Zhuowen Liang's Curriculum Vitae](../asset
     <div>
       <strong>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference</strong> <br>
       Yitong Zhu, <strong><u>Zhuowen Liang</u></strong>, Yiming Wu, Tangyao Li, Yuyang Wang <br>
-      ACM MM 2025.
+      <span class="pub-venue">ACM MM 2025 (CCF-A)</span>
       <span class="pub-links">
         <a class="pub-link" href="https://arxiv.org/abs/2501.01212"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
       </span>
