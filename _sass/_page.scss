@@ -127,6 +127,10 @@
     padding-left: 0;
     list-style: none;
 
+    > li > div > strong:first-child {
+      color: $link-color;
+    }
+
     > li {
       display: grid;
       grid-template-columns: 30% minmax(0, 1fr);
